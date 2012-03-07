@@ -1,0 +1,1346 @@
+May 01 18:24:06 VNLNetCfgGetAnswerString - Database cache is not loaded
+May 01 18:24:06 VNLNetCfgGetAnswerString - Database cache is not loaded
+May 01 18:24:06 VNLNetCfgCheckVersion - Unable to open network configuration database file, error: No such file or directory
+May 01 18:24:06 VNLNetCfgGetAnswerString - Database cache is not loaded
+May 01 18:24:06 VNLNetCfgGetAnswerString - Database cache is not loaded
+May 01 18:24:06 VNLFileExists - Cannot check for file or directory: /etc/vmware/networking , error: No such file or directory
+May 01 18:24:06 VNL_CreateNetworkingDB - Created and initialized networking configuration database: /etc/vmware/networking
+May 01 18:24:06 VNL_Load - LOG_ERR logged
+May 01 18:24:06 VNL_Load - LOG_WRN logged
+May 01 18:24:06 VNL_Load - LOG_OK logged
+May 01 18:24:06 VNL_Load - Successfully initialized Vnetlib
+May 01 18:24:08 VNLAssignUnusedSubnetAddressToVNet - Success: vnet 1 assigned subnet 172.16.0.0.
+May 01 18:24:08 VNL_AssignSubnetAddressToVnet - New subnet configured for vnet: vmnet1
+May 01 18:24:08 VNL_SetVnetUseAdapter - Success in configuring Adapter for the vnet
+May 01 18:24:08 VNL_SetVnetUseDHCP - Success in configuring DHCP for the vnet
+May 01 18:24:10 VNLAssignUnusedSubnetAddressToVNet - Success: vnet 8 assigned subnet 172.16.31.0.
+May 01 18:24:10 VNL_AssignSubnetAddressToVnet - New subnet configured for vnet: vmnet8
+May 01 18:24:10 VNL_SetVnetUseAdapter - Success in configuring Adapter for the vnet
+May 01 18:24:10 VNL_SetVnetUseDHCP - Success in configuring DHCP for the vnet
+May 01 18:24:10 VNL_SetVnetUseNAT - Success in configuring NAT for vnet: vmnet8
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet0
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet0
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Default Lease Duration" not found in configuration for vnet: 1
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Max Lease Duration" not found in configuration for vnet: 1
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Lease Begin IP" not found in configuration for vnet: 1
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Lease End IP" not found in configuration for vnet: 1
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Broadcast Address" not found in configuration for vnet: 1
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "DNS Address" not found in configuration for vnet: 1
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Domain Name" not found in configuration for vnet: 1
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Subnet Default Lease Duration" not found in configuration for vnet: 1
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Subnet Max Lease Duration" not found in configuration for vnet: 1
+May 01 18:24:10 VNLNetCfgEnumDHCPMACToIP - List of mappings is empty
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Writing DHCP configuration file succeeded for vnet: vmnet1
+May 01 18:24:10 VNLRemoveFile - Cannot delete Directory: /etc/vmware/vmnet1 because of: Directory not empty
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet1
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet2
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet2
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet3
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet3
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet4
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet4
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet5
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet5
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet6
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet6
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet7
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet7
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Default Lease Duration" not found in configuration for vnet: 8
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Max Lease Duration" not found in configuration for vnet: 8
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Lease Begin IP" not found in configuration for vnet: 8
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Lease End IP" not found in configuration for vnet: 8
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Broadcast Address" not found in configuration for vnet: 8
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "DNS Address" not found in configuration for vnet: 8
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Domain Name" not found in configuration for vnet: 8
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Subnet Default Lease Duration" not found in configuration for vnet: 8
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Subnet Max Lease Duration" not found in configuration for vnet: 8
+May 01 18:24:10 VNLDHCPGetParameter - Value for DHCP parameter: "Routers" not found in configuration for vnet: 8
+May 01 18:24:10 VNLNetCfgEnumDHCPMACToIP - List of mappings is empty
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Writing DHCP configuration file succeeded for vnet: vmnet8
+May 01 18:24:10 VNLFileExists - Cannot check for file or directory: /etc/vmware/vmnet8/nat/nat.conf , error: No such file or directory
+May 01 18:24:10 VNLCreateFile - Directory: /etc/vmware/vmnet8 already exists
+May 01 18:24:10 VNLNetCfgEnumNATPortFwd - List of forwarded ports is empty
+May 01 18:24:10 VNLNetCfgEnumNATPortFwd - List of forwarded ports is empty
+May 01 18:24:10 VNL_UpdateNATFromConfig - Writing NAT configuration file succeeded for vnet: vmnet8
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet9
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet9
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet10
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet10
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet11
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet11
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet12
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet12
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet13
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet13
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet14
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet14
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet15
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet15
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet16
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet16
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet17
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet17
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet18
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet18
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet19
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet19
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet20
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet20
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet21
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet21
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet22
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet22
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet23
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet23
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet24
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet24
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet25
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet25
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet26
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet26
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet27
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet27
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet28
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet28
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet29
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet29
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet30
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet30
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet31
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet31
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet32
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet32
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet33
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet33
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet34
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet34
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet35
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet35
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet36
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet36
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet37
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet37
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet38
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet38
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet39
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet39
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet40
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet40
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet41
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet41
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet42
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet42
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet43
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet43
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet44
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet44
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet45
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet45
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet46
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet46
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet47
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet47
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet48
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet48
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet49
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet49
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet50
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet50
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet51
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet51
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet52
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet52
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet53
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet53
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet54
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet54
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet55
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet55
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet56
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet56
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet57
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet57
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet58
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet58
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet59
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet59
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet60
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet60
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet61
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet61
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet62
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet62
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet63
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet63
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet64
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet64
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet65
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet65
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet66
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet66
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet67
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet67
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet68
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet68
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet69
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet69
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet70
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet70
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet71
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet71
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet72
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet72
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet73
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet73
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet74
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet74
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet75
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet75
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet76
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet76
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet77
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet77
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet78
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet78
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet79
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet79
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet80
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet80
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet81
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet81
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet82
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet82
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet83
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet83
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet84
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet84
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet85
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet85
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet86
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet86
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet87
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet87
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet88
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet88
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet89
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet89
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet90
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet90
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet91
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet91
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet92
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet92
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet93
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet93
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet94
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet94
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet95
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet95
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet96
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet96
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet97
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet97
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet98
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet98
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet99
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet99
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet100
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet100
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet101
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet101
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet102
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet102
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet103
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet103
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet104
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet104
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet105
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet105
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet106
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet106
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet107
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet107
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet108
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet108
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet109
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet109
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet110
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet110
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet111
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet111
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet112
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet112
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet113
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet113
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet114
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet114
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet115
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet115
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet116
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet116
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet117
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet117
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet118
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet118
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet119
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet119
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet120
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet120
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet121
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet121
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet122
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet122
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet123
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet123
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet124
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet124
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet125
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet125
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet126
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet126
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet127
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet127
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet128
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet128
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet129
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet129
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet130
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet130
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet131
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet131
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet132
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet132
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet133
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet133
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet134
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet134
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet135
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet135
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet136
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet136
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet137
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet137
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet138
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet138
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet139
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet139
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet140
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet140
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet141
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet141
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet142
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet142
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet143
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet143
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet144
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet144
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet145
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet145
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet146
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet146
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet147
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet147
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet148
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet148
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet149
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet149
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet150
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet150
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet151
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet151
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet152
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet152
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet153
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet153
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet154
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet154
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet155
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet155
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet156
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet156
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet157
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet157
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet158
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet158
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet159
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet159
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet160
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet160
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet161
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet161
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet162
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet162
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet163
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet163
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet164
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet164
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet165
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet165
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet166
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet166
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet167
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet167
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet168
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet168
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet169
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet169
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet170
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet170
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet171
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet171
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet172
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet172
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet173
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet173
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet174
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet174
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet175
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet175
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet176
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet176
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet177
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet177
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet178
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet178
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet179
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet179
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet180
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet180
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet181
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet181
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet182
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet182
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet183
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet183
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet184
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet184
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet185
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet185
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet186
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet186
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet187
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet187
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet188
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet188
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet189
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet189
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet190
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet190
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet191
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet191
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet192
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet192
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet193
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet193
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet194
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet194
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet195
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet195
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet196
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet196
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet197
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet197
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet198
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet198
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet199
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet199
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet200
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet200
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet201
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet201
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet202
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet202
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet203
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet203
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet204
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet204
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet205
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet205
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet206
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet206
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet207
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet207
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet208
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet208
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet209
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet209
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet210
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet210
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet211
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet211
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet212
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet212
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet213
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet213
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet214
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet214
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet215
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet215
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet216
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet216
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet217
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet217
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet218
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet218
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet219
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet219
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet220
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet220
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet221
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet221
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet222
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet222
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet223
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet223
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet224
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet224
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet225
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet225
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet226
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet226
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet227
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet227
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet228
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet228
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet229
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet229
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet230
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet230
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet231
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet231
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet232
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet232
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet233
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet233
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet234
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet234
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet235
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet235
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet236
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet236
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet237
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet237
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet238
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet238
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet239
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet239
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet240
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet240
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet241
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet241
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet242
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet242
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet243
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet243
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet244
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet244
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet245
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet245
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet246
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet246
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet247
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet247
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet248
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet248
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet249
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet249
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet250
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet250
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet251
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet251
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet252
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet252
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet253
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet253
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet254
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet254
+May 01 18:24:10 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet255
+May 01 18:24:10 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet255
+May 01 18:24:10 VNL_Unload - Vnetlib unloaded.
+Internet Software Consortium DHCP Server 2.0
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+Configured subnet: 172.16.0.0
+Setting vmnet-dhcp IP address: 172.16.0.254
+Opened: /dev/vmnet1
+Recving on     VNet/vmnet1/172.16.0.0
+Sending on     VNet/vmnet1/172.16.0.0
+Internet Software Consortium DHCP Server 2.0
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+Configured subnet: 172.16.31.0
+Setting vmnet-dhcp IP address: 172.16.31.254
+Opened: /dev/vmnet8
+Recving on     VNet/vmnet8/172.16.31.0
+Sending on     VNet/vmnet8/172.16.31.0
+May 01 18:24:25 VNL_Load - LOG_ERR logged
+May 01 18:24:25 VNL_Load - LOG_WRN logged
+May 01 18:24:25 VNL_Load - LOG_OK logged
+May 01 18:24:25 VNL_Load - Successfully initialized Vnetlib
+May 01 18:24:25 VNL_StartService - Started "Bridge" service for vnet: vmnet0
+May 01 18:24:26 VNL_CheckSubnetAvailability - Subnet: 172.16.0.0 on vnet: vmnet1 is available
+May 01 18:24:26 VNL_CheckSubnetAvailability - Subnet: 172.16.31.0 on vnet: vmnet8 is available
+May 01 18:24:27 VNL_StartService - Started "DHCP" service for vnet: vmnet1
+May 01 18:24:27 VNL_EnableNetworkAdapter - Successfully enabled hostonly adapter on vnet: vmnet1
+May 01 18:24:27 VNL_StartService - Started "DHCP" service for vnet: vmnet8
+May 01 18:24:27 VNL_StartService - Started "NAT" service for vnet: vmnet8
+May 01 18:24:27 VNL_EnableNetworkAdapter - Successfully enabled hostonly adapter on vnet: vmnet8
+May 01 18:24:27 VNL_StartService - Started "Netdetect" service for vnet: vmnet0
+May 01 18:24:27 VNL_Unload - Vnetlib unloaded.
+May 01 18:25:35 VNL_Load - LOG_ERR logged
+May 01 18:25:35 VNL_Load - LOG_WRN logged
+May 01 18:25:35 VNL_Load - LOG_OK logged
+May 01 18:25:35 VNL_Load - Successfully initialized Vnetlib
+May 01 18:25:35 VNL_StopService - Stopped "Bridge" service on vnet: vmnet0
+May 01 18:25:35 VNL_StopService - Stopped "DHCP" service on vnet: vmnet1
+May 01 18:25:35 VNL_StopService - Stopped "DHCP" service on vnet: vmnet8
+May 01 18:25:35 VNL_StopService - Stopped "NAT" service on vnet: vmnet8
+May 01 18:25:35 VNLServiceStatus - pid: 22880 for Netdetect service daemon on vnet: 0 is stale
+May 01 18:25:35 VNL_Unload - Vnetlib unloaded.
+Internet Software Consortium DHCP Server 2.0
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+/etc/vmware/vmnet1/dhcpd/dhcpd.conf line 38: semicolon expected.
+	option 
+ ^
+Configuration file errors encountered -- exiting
+exiting.
+Internet Software Consortium DHCP Server 2.0
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+/etc/vmware/vmnet8/dhcpd/dhcpd.conf line 39: semicolon expected.
+	option 
+ ^
+Configuration file errors encountered -- exiting
+exiting.
+May 01 18:36:17 VNL_Load - LOG_ERR logged
+May 01 18:36:17 VNL_Load - LOG_WRN logged
+May 01 18:36:17 VNL_Load - LOG_OK logged
+May 01 18:36:17 VNL_Load - Successfully initialized Vnetlib
+May 01 18:36:17 VNL_StartService - Started "Bridge" service for vnet: vmnet0
+May 01 18:36:18 VNL_CheckSubnetAvailability - Subnet: 172.16.31.0 on vnet: vmnet8 is available
+May 01 18:36:18 VNL_CheckSubnetAvailability - Subnet: 172.16.0.0 on vnet: vmnet1 is available
+May 01 18:36:18 VNLServiceStart - Daemon process did not report status, returning failure
+May 01 18:36:18 VNL_StartService - Failure in starting "DHCP" service for vnet: vmnet1
+May 01 18:36:18 VNL_EnableNetworkAdapter - Successfully enabled hostonly adapter on vnet: vmnet1
+May 01 18:36:18 VNLServiceStart - Daemon process did not report status, returning failure
+May 01 18:36:18 VNL_StartService - Failure in starting "DHCP" service for vnet: vmnet8
+May 01 18:36:18 VNL_StartService - Started "NAT" service for vnet: vmnet8
+May 01 18:36:18 VNL_EnableNetworkAdapter - Successfully enabled hostonly adapter on vnet: vmnet8
+May 01 18:36:18 VNLServiceStatus - pid: 22880 for Netdetect service daemon on vnet: 0 is stale
+May 01 18:36:18 VNL_StartService - Started "Netdetect" service for vnet: vmnet0
+May 01 18:36:18 VNL_Unload - Vnetlib unloaded.
+Internet Software Consortium DHCP Server 2.0
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+/etc/vmware/vmnet1/dhcpd/dhcpd.conf line 38: semicolon expected.
+	option 
+ ^
+Configuration file errors encountered -- exiting
+exiting.
+Internet Software Consortium DHCP Server 2.0
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+/etc/vmware/vmnet8/dhcpd/dhcpd.conf line 39: semicolon expected.
+	option 
+ ^
+Configuration file errors encountered -- exiting
+exiting.
+May 01 18:36:50 VNL_Load - LOG_ERR logged
+May 01 18:36:50 VNL_Load - LOG_WRN logged
+May 01 18:36:50 VNL_Load - LOG_OK logged
+May 01 18:36:50 VNL_Load - Successfully initialized Vnetlib
+May 01 18:36:50 VNLServiceStart - Daemon process did not report status, returning failure
+May 01 18:36:50 VNL_StartService - Failure in starting "DHCP" service for vnet: vmnet1
+May 01 18:36:50 VNLServiceStart - Daemon process did not report status, returning failure
+May 01 18:36:50 VNL_StartService - Failure in starting "DHCP" service for vnet: vmnet8
+May 01 18:36:50 VNLServiceStatus - pid: 23260 for Netdetect service daemon on vnet: 0 is stale
+May 01 18:36:50 VNL_StartService - Started "Netdetect" service for vnet: vmnet0
+May 01 18:36:50 VNL_Unload - Vnetlib unloaded.
+May 01 18:37:07 VNLNetCfgGetAnswerString - Database cache is not loaded
+May 01 18:37:07 VNLNetCfgGetAnswerString - Database cache is not loaded
+May 01 18:37:07 VNLNetCfgGetAnswerString - Database cache is not loaded
+May 01 18:37:07 VNLNetCfgGetAnswerString - Database cache is not loaded
+May 01 18:37:07 VNL_Load - LOG_ERR logged
+May 01 18:37:07 VNL_Load - LOG_WRN logged
+May 01 18:37:07 VNL_Load - LOG_OK logged
+May 01 18:37:07 VNL_Load - Successfully initialized Vnetlib
+May 01 18:37:07 VNL_StopService - Stopped "Bridge" service on vnet: vmnet0
+May 01 18:37:07 VNL_StopService - Stopped "NAT" service on vnet: vmnet8
+May 01 18:37:07 VNLServiceStatus - pid: 23378 for Netdetect service daemon on vnet: 0 is stale
+May 01 18:37:07 VNL_ExportDatabaseToFile - Exported configuration database to backup file: /tmp/vmware.1jUCJB
+May 01 18:37:07 VNL_Unload - Vnetlib unloaded.
+May 01 18:37:07 VNLNetCfgGetAnswerString - Database cache is not loaded
+May 01 18:37:07 VNLNetCfgGetAnswerString - Database cache is not loaded
+May 01 18:37:07 NetCfgUpdateDatabaseFields - Source and destination database versions are same
+May 01 18:37:07 VNLFileExists - Cannot check for file or directory: /etc/vmware/networking.bak.0 , error: No such file or directory
+May 01 18:37:07 VNLNetCfgUnload - Requested cache is not loaded
+May 01 18:37:07 VNL_ImportDatabaseFromFile - Imported configration data from backup file: /tmp/vmware.1jUCJB
+May 01 18:37:07 VNL_Load - LOG_ERR logged
+May 01 18:37:07 VNL_Load - LOG_WRN logged
+May 01 18:37:07 VNL_Load - LOG_OK logged
+May 01 18:37:07 VNL_Load - Successfully initialized Vnetlib
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet0
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet0
+May 01 18:37:07 VNLDHCPWriteDHCPCfg - Trying to locate the vmnet dhcp config block
+May 01 18:37:07 VNLDHCPWriteDHCPCfg - DHCP config modified by user, creating a new config file and backing up existing file
+May 01 18:37:07 VNLDHCPWriteDHCPCfg - Backing up DHCP config into "/etc/vmware/vmnet1/dhcpd/dhcpd.conf.bak" before modification
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Default Lease Duration" not found in configuration for vnet: 1
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Max Lease Duration" not found in configuration for vnet: 1
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Lease Begin IP" not found in configuration for vnet: 1
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Lease End IP" not found in configuration for vnet: 1
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Broadcast Address" not found in configuration for vnet: 1
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "DNS Address" not found in configuration for vnet: 1
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Domain Name" not found in configuration for vnet: 1
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Subnet Default Lease Duration" not found in configuration for vnet: 1
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Subnet Max Lease Duration" not found in configuration for vnet: 1
+May 01 18:37:07 VNLNetCfgEnumDHCPMACToIP - List of mappings is empty
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Writing DHCP configuration file succeeded for vnet: vmnet1
+May 01 18:37:07 VNLRemoveFile - Cannot delete Directory: /etc/vmware/vmnet1 because of: Directory not empty
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet1
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet2
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet2
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet3
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet3
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet4
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet4
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet5
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet5
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet6
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet6
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet7
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet7
+May 01 18:37:07 VNLDHCPWriteDHCPCfg - Trying to locate the vmnet dhcp config block
+May 01 18:37:07 VNLDHCPWriteDHCPCfg - DHCP config modified by user, creating a new config file and backing up existing file
+May 01 18:37:07 VNLDHCPWriteDHCPCfg - Backing up DHCP config into "/etc/vmware/vmnet8/dhcpd/dhcpd.conf.bak" before modification
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Default Lease Duration" not found in configuration for vnet: 8
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Max Lease Duration" not found in configuration for vnet: 8
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Lease Begin IP" not found in configuration for vnet: 8
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Lease End IP" not found in configuration for vnet: 8
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Broadcast Address" not found in configuration for vnet: 8
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "DNS Address" not found in configuration for vnet: 8
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Domain Name" not found in configuration for vnet: 8
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Subnet Default Lease Duration" not found in configuration for vnet: 8
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Subnet Max Lease Duration" not found in configuration for vnet: 8
+May 01 18:37:07 VNLDHCPGetParameter - Value for DHCP parameter: "Routers" not found in configuration for vnet: 8
+May 01 18:37:07 VNLNetCfgEnumDHCPMACToIP - List of mappings is empty
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Writing DHCP configuration file succeeded for vnet: vmnet8
+May 01 18:37:07 VNLNetCfgEnumNATPortFwd - List of forwarded ports is empty
+May 01 18:37:07 VNLNetCfgEnumNATPortFwd - List of forwarded ports is empty
+May 01 18:37:07 VNL_UpdateNATFromConfig - Writing NAT configuration file succeeded for vnet: vmnet8
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet9
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet9
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet10
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet10
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet11
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet11
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet12
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet12
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet13
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet13
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet14
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet14
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet15
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet15
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet16
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet16
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet17
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet17
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet18
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet18
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet19
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet19
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet20
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet20
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet21
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet21
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet22
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet22
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet23
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet23
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet24
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet24
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet25
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet25
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet26
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet26
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet27
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet27
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet28
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet28
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet29
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet29
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet30
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet30
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet31
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet31
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet32
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet32
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet33
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet33
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet34
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet34
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet35
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet35
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet36
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet36
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet37
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet37
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet38
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet38
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet39
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet39
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet40
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet40
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet41
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet41
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet42
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet42
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet43
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet43
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet44
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet44
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet45
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet45
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet46
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet46
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet47
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet47
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet48
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet48
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet49
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet49
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet50
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet50
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet51
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet51
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet52
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet52
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet53
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet53
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet54
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet54
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet55
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet55
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet56
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet56
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet57
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet57
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet58
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet58
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet59
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet59
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet60
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet60
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet61
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet61
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet62
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet62
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet63
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet63
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet64
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet64
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet65
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet65
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet66
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet66
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet67
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet67
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet68
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet68
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet69
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet69
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet70
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet70
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet71
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet71
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet72
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet72
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet73
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet73
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet74
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet74
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet75
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet75
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet76
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet76
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet77
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet77
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet78
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet78
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet79
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet79
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet80
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet80
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet81
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet81
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet82
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet82
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet83
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet83
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet84
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet84
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet85
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet85
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet86
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet86
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet87
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet87
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet88
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet88
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet89
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet89
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet90
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet90
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet91
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet91
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet92
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet92
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet93
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet93
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet94
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet94
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet95
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet95
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet96
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet96
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet97
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet97
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet98
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet98
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet99
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet99
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet100
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet100
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet101
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet101
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet102
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet102
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet103
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet103
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet104
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet104
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet105
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet105
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet106
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet106
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet107
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet107
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet108
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet108
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet109
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet109
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet110
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet110
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet111
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet111
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet112
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet112
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet113
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet113
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet114
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet114
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet115
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet115
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet116
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet116
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet117
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet117
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet118
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet118
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet119
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet119
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet120
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet120
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet121
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet121
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet122
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet122
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet123
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet123
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet124
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet124
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet125
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet125
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet126
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet126
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet127
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet127
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet128
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet128
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet129
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet129
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet130
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet130
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet131
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet131
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet132
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet132
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet133
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet133
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet134
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet134
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet135
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet135
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet136
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet136
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet137
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet137
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet138
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet138
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet139
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet139
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet140
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet140
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet141
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet141
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet142
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet142
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet143
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet143
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet144
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet144
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet145
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet145
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet146
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet146
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet147
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet147
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet148
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet148
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet149
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet149
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet150
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet150
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet151
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet151
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet152
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet152
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet153
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet153
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet154
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet154
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet155
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet155
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet156
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet156
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet157
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet157
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet158
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet158
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet159
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet159
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet160
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet160
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet161
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet161
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet162
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet162
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet163
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet163
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet164
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet164
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet165
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet165
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet166
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet166
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet167
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet167
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet168
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet168
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet169
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet169
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet170
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet170
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet171
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet171
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet172
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet172
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet173
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet173
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet174
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet174
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet175
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet175
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet176
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet176
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet177
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet177
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet178
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet178
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet179
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet179
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet180
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet180
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet181
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet181
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet182
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet182
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet183
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet183
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet184
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet184
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet185
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet185
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet186
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet186
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet187
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet187
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet188
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet188
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet189
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet189
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet190
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet190
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet191
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet191
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet192
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet192
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet193
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet193
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet194
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet194
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet195
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet195
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet196
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet196
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet197
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet197
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet198
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet198
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet199
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet199
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet200
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet200
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet201
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet201
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet202
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet202
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet203
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet203
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet204
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet204
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet205
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet205
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet206
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet206
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet207
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet207
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet208
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet208
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet209
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet209
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet210
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet210
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet211
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet211
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet212
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet212
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet213
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet213
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet214
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet214
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet215
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet215
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet216
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet216
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet217
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet217
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet218
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet218
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet219
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet219
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet220
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet220
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet221
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet221
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet222
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet222
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet223
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet223
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet224
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet224
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet225
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet225
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet226
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet226
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet227
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet227
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet228
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet228
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet229
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet229
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet230
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet230
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet231
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet231
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet232
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet232
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet233
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet233
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet234
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet234
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet235
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet235
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet236
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet236
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet237
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet237
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet238
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet238
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet239
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet239
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet240
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet240
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet241
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet241
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet242
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet242
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet243
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet243
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet244
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet244
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet245
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet245
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet246
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet246
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet247
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet247
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet248
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet248
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet249
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet249
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet250
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet250
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet251
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet251
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet252
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet252
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet253
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet253
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet254
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet254
+May 01 18:37:07 VNL_UpdateDHCPFromConfig - Removing DHCP configuration file succeeded for vnet: vmnet255
+May 01 18:37:07 VNL_UpdateNATFromConfig - Removing NAT configuration file succeeded for vnet: vmnet255
+May 01 18:37:07 VNL_Unload - Vnetlib unloaded.
+Internet Software Consortium DHCP Server 2.0
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+Configured subnet: 172.16.0.0
+Setting vmnet-dhcp IP address: 172.16.0.254
+Opened: /dev/vmnet1
+Recving on     VNet/vmnet1/172.16.0.0
+Sending on     VNet/vmnet1/172.16.0.0
+Internet Software Consortium DHCP Server 2.0
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+Configured subnet: 172.16.31.0
+Setting vmnet-dhcp IP address: 172.16.31.254
+Opened: /dev/vmnet8
+Recving on     VNet/vmnet8/172.16.31.0
+Sending on     VNet/vmnet8/172.16.31.0
+May 01 18:37:22 VNL_Load - LOG_ERR logged
+May 01 18:37:22 VNL_Load - LOG_WRN logged
+May 01 18:37:22 VNL_Load - LOG_OK logged
+May 01 18:37:22 VNL_Load - Successfully initialized Vnetlib
+May 01 18:37:22 VNL_StartService - Started "Bridge" service for vnet: vmnet0
+May 01 18:37:23 VNL_CheckSubnetAvailability - Subnet: 172.16.0.0 on vnet: vmnet1 is available
+May 01 18:37:23 VNL_CheckSubnetAvailability - Subnet: 172.16.31.0 on vnet: vmnet8 is available
+May 01 18:37:23 VNL_StartService - Started "DHCP" service for vnet: vmnet1
+May 01 18:37:23 VNL_EnableNetworkAdapter - Successfully enabled hostonly adapter on vnet: vmnet1
+May 01 18:37:23 VNL_StartService - Started "DHCP" service for vnet: vmnet8
+May 01 18:37:23 VNL_StartService - Started "NAT" service for vnet: vmnet8
+May 01 18:37:23 VNL_EnableNetworkAdapter - Successfully enabled hostonly adapter on vnet: vmnet8
+May 01 18:37:23 VNLServiceStatus - pid: 23378 for Netdetect service daemon on vnet: 0 is stale
+May 01 18:37:23 VNL_StartService - Started "Netdetect" service for vnet: vmnet0
+May 01 18:37:23 VNL_Unload - Vnetlib unloaded.
+May 01 19:26:38 VNL_Load - LOG_ERR logged
+May 01 19:26:38 VNL_Load - LOG_WRN logged
+May 01 19:26:38 VNL_Load - LOG_OK logged
+May 01 19:26:38 VNL_Load - Successfully initialized Vnetlib
+May 01 19:26:38 VNL_StopService - Stopped "Bridge" service on vnet: vmnet0
+May 01 19:26:38 VNL_StopService - Stopped "DHCP" service on vnet: vmnet1
+May 01 19:26:38 VNL_StopService - Stopped "DHCP" service on vnet: vmnet8
+May 01 19:26:38 VNL_StopService - Stopped "NAT" service on vnet: vmnet8
+May 01 19:26:38 VNLServiceStatus - pid: 23602 for Netdetect service daemon on vnet: 0 is stale
+May 01 19:26:38 VNL_Unload - Vnetlib unloaded.
+Internet Software Consortium DHCP Server 2.0
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+Configured subnet: 172.16.0.0
+Setting vmnet-dhcp IP address: 172.16.0.254
+Opened: /dev/vmnet1
+Recving on     VNet/vmnet1/172.16.0.0
+Sending on     VNet/vmnet1/172.16.0.0
+Internet Software Consortium DHCP Server 2.0
+Copyright 1995, 1996, 1997, 1998, 1999 The Internet Software Consortium.
+All rights reserved.
+
+Please contribute if you find this software useful.
+For info, please visit http://www.isc.org/dhcp-contrib.html
+
+Configured subnet: 172.16.31.0
+Setting vmnet-dhcp IP address: 172.16.31.254
+Opened: /dev/vmnet8
+Recving on     VNet/vmnet8/172.16.31.0
+Sending on     VNet/vmnet8/172.16.31.0
+May 01 19:33:36 VNL_Load - LOG_ERR logged
+May 01 19:33:36 VNL_Load - LOG_WRN logged
+May 01 19:33:36 VNL_Load - LOG_OK logged
+May 01 19:33:36 VNL_Load - Successfully initialized Vnetlib
+May 01 19:33:36 VNL_StartService - Started "Bridge" service for vnet: vmnet0
+May 01 19:33:37 VNL_CheckSubnetAvailability - Subnet: 172.16.0.0 on vnet: vmnet1 is available
+May 01 19:33:37 VNL_CheckSubnetAvailability - Subnet: 172.16.31.0 on vnet: vmnet8 is available
+May 01 19:33:37 VNL_StartService - Started "DHCP" service for vnet: vmnet1
+May 01 19:33:37 VNL_EnableNetworkAdapter - Successfully enabled hostonly adapter on vnet: vmnet1
+May 01 19:33:37 VNL_StartService - Started "DHCP" service for vnet: vmnet8
+May 01 19:33:37 VNL_StartService - Started "NAT" service for vnet: vmnet8
+May 01 19:33:37 VNL_EnableNetworkAdapter - Successfully enabled hostonly adapter on vnet: vmnet8
+May 01 19:33:37 VNL_StartService - Started "Netdetect" service for vnet: vmnet0
+May 01 19:33:37 VNL_Unload - Vnetlib unloaded.
+May 01 21:31:19 VNL_Load - LOG_ERR logged
+May 01 21:31:19 VNL_Load - LOG_WRN logged
+May 01 21:31:19 VNL_Load - LOG_OK logged
+May 01 21:31:19 VNL_Load - Successfully initialized Vnetlib
+May 01 21:31:19 VNL_StopService - Stopped "Bridge" service on vnet: vmnet0
+May 01 21:31:19 VNL_StopService - Stopped "DHCP" service on vnet: vmnet1
+May 01 21:31:19 VNL_StopService - Stopped "DHCP" service on vnet: vmnet8
+May 01 21:31:19 VNL_StopService - Stopped "NAT" service on vnet: vmnet8
+May 01 21:31:19 VNLServiceStatus - pid: 6083 for Netdetect service daemon on vnet: 0 is stale
+May 01 21:31:19 VNL_Unload - Vnetlib unloaded.
